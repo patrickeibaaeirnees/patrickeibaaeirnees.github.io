@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://patrickeibaaeirnees.gitub.io/sitemap.xml.gz
